@@ -1,0 +1,3 @@
+model,validation_scope,validation_wmae,decision
+Store-Department historical baseline,Type A validation rows,3048.086,Selected for final prediction
+Type A regression model,Type A validation rows,3211.125,Supporting diagnostic model
