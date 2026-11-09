@@ -100,9 +100,7 @@ The baseline produced the lower validation error and was therefore selected for 
 
 - `images/`: dashboard page exports for browser viewing
 - `reports/Walmart_Sales_Analytics_Dashboard.pdf`: four-page dashboard export
-- `dashboard/Walmart_Sales_Analytics_Dashboard.pbix`: editable Power BI project for private review
-
-> Note: Before making this repository public, consider replacing the PBIX file with a data-free Power BI template (`.pbit`) so the original competition data is not redistributed.
+- The editable Power BI project file is not published in this repository, to avoid redistributing the original competition data.
 
 ## Author
 
